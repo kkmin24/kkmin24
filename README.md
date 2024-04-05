@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, Angular, Github
 - 💞️ I’m looking to collaborate on Python/ Angular coding
 - 📫 How to reach me: kamesh265_jsr@hotmail.com
-- 😄 Pronouns: hardworking, procrastination, social, human
-- ⚡ Fun fact: not as such
+- 😄 Pronouns: hardworking, social, human
+- ⚡ Fun fact: do not play politics
 
 <!---
 kkmin24/kkmin24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
